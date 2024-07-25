@@ -36,7 +36,7 @@ marca= input("Elegir opcion: ")
 cantidad_lamparas=int(input("Ingrese la cantidad de lamparas: "))
 
 #Creamos un while para validar la cantidad de lamparas
-while cantidad_lamparas <=0:
+while cantidad_lamparas <= 0:
     cantidad_lamparas=int(input("ERROR...Ingrese la cantidad de lamparas: "))
 
 
